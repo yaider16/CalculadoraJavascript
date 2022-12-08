@@ -28,7 +28,7 @@ html{
     flex-direction: column;
     width: 620px;
     border: 1px solid gray;
-    border-radius: 10px;
+    border-radius: 11px;
 }
 
 .calculator-display{
