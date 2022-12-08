@@ -77,3 +77,11 @@ html{
 .keypad-button.large{
     width: 50%;
 }
+
+.saludo{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    display: flex;
+    top: 10rem;
+
+}
